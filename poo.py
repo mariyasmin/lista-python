@@ -6,7 +6,7 @@ class Usuario:
     segundosobrenome = "Silva"
 
     def hello(self):
-        return "Olá"
+        return "Olá, "
 
 usuario1= Usuario()
 usuario2 = Usuario()
