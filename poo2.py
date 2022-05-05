@@ -5,5 +5,5 @@ class Usuario:
   def hello(self):
     return "Olá, " + self.primeironome + " " + self.ultimonome
 
-usuario1 = Usuario()
-print (usuario1.hello())
+user1 = Usuario()
+print (user1.hello())
